@@ -1,3 +1,6 @@
+"""
+See [`SimpleFileServer.serve`](@ref) to run the file server.
+"""
 module SimpleFileServer
 
 using Deno_jll
